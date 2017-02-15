@@ -1,0 +1,110 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#footer {
+	background-color: #666;
+	height: 70px;
+	width: 100%;
+}
+
+#banner {
+	background-color: #666;
+	height: 100px;
+	width: 100%;
+	margin-bottom: 5px;
+}
+body {
+	font:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	}
+#menu {
+	background-color: #999;
+	height: 500px;
+	width: 10%;
+	float: left;
+	margin-bottom: 5px;
+	margin-right: 5px;
+}
+#content {
+	background-color: #E2E2E2;
+	float: right;
+	height: 500px;
+	width: 89%;
+	margin-bottom: 5px;
+}
+div.xoa{
+	clear:both;
+}
+div#box-quanlythanhvien{
+	width:auto;
+	height:75px;
+	background-color:#999;
+	padding:10px;
+	text-align:center;
+	border:1px solid #999;
+	
+}
+div#box-quanlythanhvien:hover
+{
+	border:1px solid #F00;
+	}
+
+div#box-quanlydanhsachhoinghi{
+	width:auto;
+	height:75px;
+	background-color:#999;
+	padding:10px;
+	text-align:center;
+	border:1px solid #999;
+	
+}
+div#box-quanlydanhsachhoinghi:hover
+{
+	border:1px solid #F00;
+	}
+div#box-quanlydaibieu{
+	width:auto;
+	height:75px;
+	background-color:#999;
+	padding:10px;
+	text-align:center;
+	border:1px solid #999;
+	
+}
+div#box-quanlydaibieu:hover
+{
+	border:1px solid #F00;
+	}
+div#box-checkin{
+	width:auto;
+	height:75px;
+	background-color:#999;
+	padding:10px;
+	text-align:center;
+	border:1px solid #999;
+	
+}
+div#box-checkin:hover
+{
+	border:1px solid #F00;
+	}
+div#menu a{
+	text-decoration:none;
+	color:#000;
+	}
+div.right{
+	width:69%;
+	float:right;
+	height:250px;
+}
+div.below{
+	width:70%;
+	float:right;
+	height:200px;
+}
+div.left{
+	width:30%;
+	float:left;
+	
+}
